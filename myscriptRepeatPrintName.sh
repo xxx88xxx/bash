@@ -1,1 +1,1 @@
-echo "wha is your name?"
+echo "What is your name?"
