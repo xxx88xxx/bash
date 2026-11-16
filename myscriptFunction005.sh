@@ -1,3 +1,4 @@
+# Task: Ask the user for their name and job, then pass both values to a function that prints an introduction.
 introduce() {
     echo "My name is $1, I work as $2"
 }
