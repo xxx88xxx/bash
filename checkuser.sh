@@ -1,5 +1,6 @@
 #!/bin/bash
-
+# Task: Check whether a user exists in /etc/passwd.
+# If no match is found, list /home and print a message if the listing succeeds.
 user=anotherUser
 
 if grep "$user" /etc/passwd
