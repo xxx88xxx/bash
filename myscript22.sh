@@ -1,3 +1,7 @@
+# Task: Create a function that takes two parameters: start and end.
+# Calculate and print the sum of all numbers in the inclusive range.
+# Call the function with 1 and 10.
+
 f() {
     local start=$1
     local end=$2
