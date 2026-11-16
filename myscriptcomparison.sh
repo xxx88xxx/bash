@@ -1,4 +1,5 @@
 #!/bin/bash
+# Task: Check whether a number is greater than 5 and print the result.
 val1=6
 if [ $val1 -gt 5 ]
 then
