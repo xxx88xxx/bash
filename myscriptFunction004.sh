@@ -1,3 +1,4 @@
+# Task: Ask the user for their name and age, then pass both values to a function that prints a greeting.
 greeting() {
     echo "Hello $1, you are $2 years old"
 }
